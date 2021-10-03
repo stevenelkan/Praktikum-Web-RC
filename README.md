@@ -1,5 +1,5 @@
 # Praktikum-Web-RC
-Kumpulkan tugas kalian bisa dengan cara: 
+Kumpulkan tugas kalian _bisa_ dengan cara: 
 1. fork repository ini 
 2. clone hasil fork repository
 3. Buat branch baru dengan nama sesuai minggu pertemuan, contoh:
