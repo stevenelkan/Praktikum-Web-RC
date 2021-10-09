@@ -15,6 +15,6 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  :Steven Elkan Hutauruk
 <br>
-NIM   :
+NIM   :118140149
