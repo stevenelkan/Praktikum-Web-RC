@@ -18,3 +18,7 @@ jangan lupa tambahkan hasil screenshoot web di dalam file
 Nama  :Steven Elkan Hutauruk
 <br>
 NIM   :118140149
+<br>
+Mohon maaf bang saya gatau kenapa di branch minggu 2 filenya jadi kegabung sama minggu 1. yang minggu 2 filenya: about.html , Foto KTM.jpg , gaya.css , itera.jpg , Screenshot.png , tugas2.html 
+<br>
+Yang lainnya itu tugas minggu 1.Gak termasuk di tugas minggu 2.  Mohon maaf bang sebelumnya
