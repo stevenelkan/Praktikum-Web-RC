@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tugas Praktikum Pemrograman Web Minggu 3</title>
+    </head>
+    <body>
+        <script src="eksternal.js"></script>
+        <label for="color">Select theme: </label>
+        <select id="color" onchange="GantiWarna(value)">
+            <option value="White">White</option>
+            <option value="Black">Black</option>
+            <option value="Red">Red</option>
+            <option value="Green">Green</option>
+            <option value="Blue">Blue</option>
+        </select>
+        
+        <h1>This is my website</h1>
+        
+        <label for='weather'>Select the Weather type today:</label>
+        <select id="weather" onchange="UbahCuaca(value)">
+            <option value="Sunny">Sunny</option>
+            <option value="Rainy">Rainy</option>
+        </select>
+        <p id="x"></p>
+
+        <label for="faktorial">Input number: </label>
+        <input type="number" id="faktorial" onchange="Faktorial(faktorial)">
+        <button>Get Factorial</button>
+        <p id="y"></p>
+        
+    </body>
+</html>
